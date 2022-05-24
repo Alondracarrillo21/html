@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(231, 146, 242);
+    height: 50px; 
+    width: 750px;
+    margin: auto;
+    margin-top: 25px;
+}
+header{
+   
+     background-color: #facbd3;
+     height: 250px;
+     width: 750px;
+    
+}
+#foto{
+    float: left;
+    margin-top: 8px;
+}
+
+#nombre_alumno{
+    background-color: rgb(164, 246, 246);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#datos{
+    background-color: rgb(167, 163, 163);
+    height: 30px;
+    width: 600px;
+    float: right;
+   
+}
+
+nav{
+    background-color:#facbd3;
+    height: 250px;
+    width: 750px;
+}
+
+#experiencia_laboral{
+    background-color: grey;
+}
+
+#educacion_formacion{
+    background-color: rgb(167, 163, 163);
+   
+}
+
+main{
+    background-color: #facbd3;
+    height: 350px;
+    width: 750px;
+}
+
+#capacidades_aptitudes{
+    background-color: aquamarine;
+}
+#lengua_materna{
+    background-color: gray;
+}
+#otros_idiomas{
+    background-color: gray;
+}
+#capacidades_aptitudes_tecnicas{
+    background-color: gray;
+}
+#permiso_conduccion{
+    background-color: grey; 
+
+}
+
+footer{
+    background-color: #facbd3;
+    height: 80px;
+    width: 750px;
+}
+#informacion_adicional{
+    background-color: grey;
+    
+}

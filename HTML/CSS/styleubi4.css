@@ -1,0 +1,55 @@
+body{
+    background-color: azure;
+    height: 50px; 
+    width: 750px;
+    margin: auto;
+    margin-top: 25px;
+
+}
+
+header{
+    background-color: aquamarine;
+    height: 50px;
+    width: 750;
+    border-top: 10px solid black;
+    border-bottom:  5px solid black;
+    border-left:  10px solid black;
+    border-right: 10px solid black;
+}
+
+
+
+#ubicacion{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#nombre{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav{
+    background-color: aqua;
+    border-top: 1px solid black;
+    border-bottom:  5px solid black;
+    border-left:  8px solid black;
+    border-right: 8px solid black;
+}
+
+footer{
+    background-color: antiquewhite;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 5px solid black;
+    border-bottom:  8px solid black;
+    border-left:  8px solid black;
+    border-right: 8px solid black;
+}

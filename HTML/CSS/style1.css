@@ -1,0 +1,171 @@
+body{
+background-color: pink; 
+ width:1000px; 
+ height: 950px;
+ margin: auto;
+ margin-top: 50px;
+}
+nav{
+  
+ background: plum;
+ width:1000px; 
+ height: 100px;
+ justify-content: center;
+ align-items: center;
+ margin-top: 10px;
+ border-top: 10px solid black;
+ border-bottom:  5px solid black;
+border-left:  10px solid black;
+border-right: 10px solid black;
+
+ 
+}
+
+.box{
+
+background: rgb(242, 53, 157);
+ width: 170px; 
+ height: 50px;
+ margin: 10px;
+ float:right;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+
+}
+
+header{
+
+background: rgb(130, 200, 250);
+ width:1000px; 
+ height: 300px;
+ justify-content: center;
+ align-items: center;
+ border-top: 10px solid black;
+border-bottom:  5px solid black;
+border-left:  10px solid black;
+border-right: 10px solid black;
+}
+#Banner{
+
+    background: rgb(250, 208, 130);
+    width: 800px; 
+    height: 260px;
+    margin: 15px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Logo{
+
+    background: rgb(250, 208, 130);
+    width: 150px; 
+    height: 65px;
+    margin: 10px;
+    float: left;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+    
+}
+.Login{
+
+    background: rgb(250, 208, 130);
+    width: 150px; 
+    height: 65px;
+    margin: 10px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Form{
+
+    background: rgb(250, 208, 130);
+    width: 150px; 
+    height: 65px;
+    margin: 10px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+
+
+main{
+    background: rgb(226, 250, 130);
+    width:1000px; 
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    border-top: 10px solid black;
+    border-bottom:  5px solid black;
+    border-left:  10px solid black;
+    border-right: 10px solid black;
+}
+.Aside{
+    background: rgb(250, 130, 194);
+    width: 200px; 
+    height: 480px;
+    justify-content: center;
+    align-items: center;
+    float:left;
+    margin-top: 10px;
+    margin-left: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+
+.Aside2{
+    background: rgb(250, 130, 194);
+    width: 200px;
+    height: 480px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+
+.Article{
+    background: rgb(242, 53, 157);
+    width: 500px; 
+    height: 480px;
+    margin: 10px;
+    float:left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    background: rgb(132, 250, 130);
+    width:1000px; 
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    border-top: 10px solid black;
+    border-bottom:  4px solid black;
+    border-left:  10px solid black;
+    border-right: 10px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

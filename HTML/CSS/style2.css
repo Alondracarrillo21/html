@@ -1,0 +1,92 @@
+
+
+body{
+    background-color: aqua;
+    height: 750px; 
+    width: 750px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+header{
+    background-color: beige;
+    height: 250px;
+    width: 750px;
+    border-top: 10px solid black;
+    border-bottom:  3px solid black;
+    border-left:  8px solid black;
+    border-right: 8px solid black;
+}
+#banner{
+    background-color:rgb(238, 93, 93) ;
+    height: 250px;
+    width: 500px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#logo{
+    background:rgb(148, 148, 246) ;
+    height: 250px;
+    width: 250px;
+    float:right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+nav{
+    background-color: pink;
+    height: 50px;
+    width: 750px;
+    border-top: 10px solid black;
+    border-bottom:  3px solid black;
+    border-left:  8px solid black;
+    border-right: 8px solid black;
+   
+}
+
+main{
+    background-color: rgb(246, 246, 134);
+    height: 400px;
+    width:750px;
+    border-top: 10px solid black;
+    border-bottom:  3px solid black;
+    border-left:  8px solid black;
+    border-right: 8px solid black;
+}
+
+article{
+    background-color: rgb(120, 212, 120);
+    height: 400px;
+    width: 450px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+aside{
+    background-color: rgb(199, 210, 237);
+    height: 400px;
+    width: 300px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+footer{
+    background-color: rgb(246, 152, 118);
+    height: 50px;
+    width:750px ;
+    border-top: 10px solid black;
+    border-bottom:  9px solid black;
+    border-left:  8px solid black;
+    border-right: 8px solid black;
+    
+}
